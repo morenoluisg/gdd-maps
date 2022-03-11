@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Prueba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3116" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 1036017.604500001296401, 1418558.5877 ], [ 1009661.446800001896918, 1102729.253400001674891 ], [ 736196.517869750037789, 1141957.307262919843197 ], [ 724907.60640303697437, 1424180.093930711969733 ], [ 1036017.604500001296401, 1418558.5877 ] ] ] ] } }
+]
+}
